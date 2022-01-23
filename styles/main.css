@@ -636,6 +636,9 @@ header {
     .header {
         gap: 21px;
     }
+    .footer {
+        margin-top: 20px;
+    }
 }
 @media (max-width: 567px) {
     .breadcrumbs a {
@@ -706,6 +709,9 @@ header {
     }
     .menu-other .grid-menu-item {
         flex:0 0 139px;
+    }
+    .footer {
+        margin-top: 20px;
     }
     .footer-box {
         display: grid;
