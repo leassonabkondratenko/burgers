@@ -618,6 +618,11 @@ header {
         padding-bottom: 146px;
         margin-top: 20px;
     }
+    .footer-box {
+        display: contents;
+    }
+user agent stylesheet
+di
     .footer-item h2 {
         margin-bottom: 19px;
         margin-top: 6px;
@@ -714,7 +719,7 @@ header {
         margin-top: 20px;
     }
     .footer-box {
-        display: grid;
+        display: contents;
         grid-template-columns: 44% 56%;
         grid-template-rows: 21% 45% 40%;
         grid-template-areas: 'logo tel'
