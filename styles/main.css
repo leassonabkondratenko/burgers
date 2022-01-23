@@ -616,6 +616,7 @@ header {
     .footer {
         padding-top: 62px;
         padding-bottom: 146px;
+        margin-top: 20px;
     }
     .footer-item h2 {
         margin-bottom: 19px;
